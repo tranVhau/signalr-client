@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Maven+Pro&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  color: #2c2c2c;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Maven Pro;
+  background-color: #fafafa !important;
+}
+
+.custom-container {
+  max-width: 1328px !important;
+  margin: 0 auto;
+}
+
+.custom-status-text {
+  font-size: 10px;
+  opacity: 0.8;
+  padding: 0 2px;
+}
